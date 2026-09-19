@@ -105,7 +105,7 @@ qmc/
 支持 skills 标准的 Agent（Kimi Code / Claude Code / Codex 等）：
 
 ```bash
-npx skills@latest add <repo-url> --skill qmc
+npx skills@latest add dreamybecca-coder/qmc --skill qmc
 ```
 
 或手动：把 `qmc/` 目录复制到 `~/.config/agents/skills/`（或你的 Agent 的 skills 目录），
